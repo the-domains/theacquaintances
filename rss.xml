@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TheAcquaintances]]></title>
         <description><![CDATA[TheAcquaintances]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theacquaintances/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 16:37:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 16:57:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theacquaintances/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ca1e683-7d73-4ea2-a59f-6ff3f8f267ac.jpg">]]></description>
+            <link>https://thegrid.ai/theacquaintances/0061040e-cf7c-4557-8975-dc4dbf17a445/index.html</link>
+            <guid isPermaLink="false">0061040e-cf7c-4557-8975-dc4dbf17a445</guid>
+            <pubDate>Mon, 09 Nov 2015 16:57:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d218182-f602-4b54-91d4-95a605174734.jpg">]]></description>
-            <link>undefined044955c4-43ac-4836-ab0b-c2f766fbfcc8/index.html</link>
+            <link>https://thegrid.ai/theacquaintances/044955c4-43ac-4836-ab0b-c2f766fbfcc8/index.html</link>
             <guid isPermaLink="false">044955c4-43ac-4836-ab0b-c2f766fbfcc8</guid>
             <pubDate>Mon, 09 Nov 2015 16:36:55 GMT</pubDate>
         </item>
